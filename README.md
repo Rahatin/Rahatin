@@ -1,7 +1,7 @@
 ![logo](https://gameranx.com/wp-content/uploads/2019/08/Zombie-Army-4-Dead-War-394P-Wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Rahatin</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatin&label=Profile%20views&color=0e75b6&style=flat" alt="rahatin" /> </p>
 
 - ⚡ Fun fact **I am funny**
