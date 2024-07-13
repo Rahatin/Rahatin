@@ -1,4 +1,4 @@
-![logo](https://gameranx.com/wp-content/uploads/2019/08/Zombie-Army-4-Dead-War-394P-Wallpaper.jpg)
+![logo](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a%C2%B7-github-topics-a%C2%B7-github-cute-ghibli.jpg)
 <h1 align="center">Hi 👋, I'm Rahatin</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
